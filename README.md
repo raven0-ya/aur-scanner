@@ -39,7 +39,7 @@ Since this is a portable standalone script, no installation is required.
 Clone the repository and execute a standard scan:
 
 ```bash
-git clone [https://github.com/raven0-ya/aur-scanner.git](https://github.com/raven0-ya/aur-scanner.git)
+git clone https://github.com/raven0-ya/aur-scanner.git
 cd aur-scanner
 chmod +x arch-scan.sh
 ./arch-scan.sh
