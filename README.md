@@ -33,6 +33,7 @@ This scanner relies on a dual-layer approach: fetching dynamic remote threat fee
 ## Installation & Usage
 
 Since this is a portable standalone script, no installation is required.
+Use `./arch-scan.sh --help` to see all options.
 
 ### Quick Start
 
